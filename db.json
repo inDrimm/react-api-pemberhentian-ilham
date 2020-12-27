@@ -1,4 +1,5 @@
-{"data":[
+{
+    "data":[
     {
         "NoSU" : "198609262015051001",
         "jenisPemberhentian" : "Golongan/KP",
@@ -54,7 +55,7 @@
         "progressUsulan" : "Validasi"
     },
 	{
-        "NoSU" : "1986092620150510012,
+        "NoSU" : "1986092620150510012",
         "jenisPemberhentian" : "Golongan/KP",
         "nipPengusul" : "197003191997031012",
         "namaPengusul" : "Alan Hadi",
